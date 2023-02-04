@@ -1,0 +1,44 @@
+1. What is the internet? Explain in your own words.
+
+Ans : - The internet is a global network of computers and other devices connected to each other through
+communication channels, allowing people to access, exchange and share information and resources, such as
+text, images, videos, etc., anywhere in the world. It operates on the principles of standard protocols
+and technologies like the World Wide Web (WWW), email, and others, that allow seamless interoperability
+and connectivity.
+
+
+2. What is a web browser? Explain in your own words.
+
+Ans: -A web browser is a software application that allows users to access, retrieve, and display content
+on the internet. It acts as a client for the World Wide Web, connecting to servers on the internet to
+request and receive web pages, images, videos, and other forms of digital media. Some of the popular
+web browsers include Google Chrome, Mozilla Firefox, Apple Safari, Microsoft Edge, and others.
+A browser also provides features like bookmarking, history, and security, making it a crucial tool for
+accessing the internet and navigating the World Wide Web.
+
+
+3. What is a browser engine? Explain in your own words.
+
+Ans : - A browser engine is the core component of a web browser that is responsible for rendering and
+displaying web pages on a user's device. It takes HTML, CSS, and JavaScript code and converts it into
+a visual representation that users can interact with. The engine is also responsible for handling and
+processing network requests, such as loading web pages and fetching resources such as images and videos.
+
+
+4. What is a static site? Explain in your own words.
+
+Ans : - A static website is a type of website that contains fixed, unchanging content that is delivered
+to the user as is, without any dynamic processing on the server. It consists of a set of HTML, CSS, and
+JavaScript files that are stored on a web server and delivered to the client as they are, without any
+additional processing.Static sites are simple, fast, and cost-effective. They are a good choice for sites
+ with limited dynamic content and low traffic, as they do not require a lot of server resources.
+
+
+5. What is a dynamic site? Explain in your own words.
+
+ Ans : - A dynamic website is like a program or a software application - it can show different information
+based on user actions and input, and can change over time.It uses server-side scripting languages like
+PHP, Ruby, Python, or others, to dynamically generate HTML, CSS, and JavaScript that is sent to the client
+for rendering. This allows the content of a dynamic site to change based on user input, database information,
+or other factors, providing a more interactive and personalized experience for the user.Dynamic sites are more
+complex than static sites.
